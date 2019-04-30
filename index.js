@@ -756,7 +756,7 @@ function loadLine(){
         .attr('y', 40)
         .attr('transform', 'rotate(0)')
         .attr('text-anchor', 'middle')
-        .text('$50,486 (Asian)')
+        .text('$80,486 (Asian)')
 
         svg.append("g")
         .attr("transform", "translate(0," + height + ")")
